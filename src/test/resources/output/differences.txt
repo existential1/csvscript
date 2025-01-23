@@ -1,0 +1,5 @@
+FILE 1 is "src\test\resources\testdata\test1.csv", FILE 2 is "src\test\resources\testdata\test3.csv"
+
+Difference found for record "0": FILE 1 columns [Name,  Phone,  Street,  City,  State], FILE 2 columns [Name,  Phone #,  Street,  City,  State]
+Difference found for record "1": FILE 1 columns [Fred,  555-000-1111,  Lacewood Dr,  Parker,  FL], FILE 2 columns [Fred,  556-000-1111,  Lacewood Dr,  Parker,  FL]
+Difference found for record "2": FILE 1 columns [Must,  555-000-2222,  Bentwell Cres,  Lynnhaven,  FL], FILE 2 columns [Must,  555-000-2222,  Bentwood Cres,  Lynnhaven,  FL]
